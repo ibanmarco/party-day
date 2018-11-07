@@ -1,3 +1,3 @@
 # party-day
 
-Interview process with Time Out
+Interview process with Timewasters
